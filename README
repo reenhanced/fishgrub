@@ -10,6 +10,8 @@ We have:
 We need:
 * A machine to provide fish food
 * Code to make this machine work with our codebase
+* Supplementary shark tank to feed fish to
+* Code to feed the sharks our fish
 
 Stats:
 Machine: Old macbook without a battery
@@ -21,3 +23,5 @@ apply, then updates the code on the machine.
 
 All pull requests that can be automatically merged will be pulled into this project automatically.
 Your code will help keep our fish alive, or send him to an early grave.
+
+Some crap was changed here
